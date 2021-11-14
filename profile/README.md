@@ -6,7 +6,7 @@
 
 <h1 align="center">Medieval China</h1>
 
-![](https://medieval-china.club/images/post_images/20211104%E5%AE%8B%E9%BB%84%E5%BA%AD%E5%9D%9A%E6%9D%BE%E9%A3%8E%E9%98%81%E5%B8%96.jpg)
+![](https://raw.githubusercontent.com/Andesome/assets/master/images/185791636908261_.pic_hd.jpg)
 
 <div align="center">
 <strong>
