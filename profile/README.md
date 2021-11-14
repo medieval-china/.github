@@ -1,12 +1,12 @@
 <p align="center">
   <a href="https://medieval-china.club">
-    <img width="100" style="border-radius: 8px; overflow: hidden" src="https://avatars.githubusercontent.com/u/80798631">
+    <img width="80" style="border-radius: 8px; overflow: hidden" src="https://avatars.githubusercontent.com/u/80798631">
   </a>
 </p>
 
 <h1 align="center">Medieval China</h1>
 
-![](https://medieval-china.club/images/post_images/20211109%E5%85%83%E5%A4%8F%E5%8F%94%E6%96%87%E6%9F%B3%E6%B1%80%E8%81%9A%E7%A6%BD%E5%9B%BE%E5%B1%80%E9%83%A8.jpg)
+![](https://medieval-china.club/images/post_images/20211104%E5%AE%8B%E9%BB%84%E5%BA%AD%E5%9D%9A%E6%9D%BE%E9%A3%8E%E9%98%81%E5%B8%96.jpg)
 
 <div align="center">
 <strong>
