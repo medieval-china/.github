@@ -13,7 +13,7 @@
   <a href="https://medieval-china.club">网站</a>
 </strong>
 <strong>
-  <a href="https://andesome.github.io/lyin/index.html#/upload">图床</a>
+  <a href="https://lllyin.github.io/lyin/index.html#/upload">图床</a>
 </strong>
 </div>
 
